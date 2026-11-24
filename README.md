@@ -139,4 +139,4 @@ public class MainActivity extends AppCompatActivity {
 ![alt text](<Screenshot 2026-11-24 084608.png>)
 
 ## RESULT
-Thus a Simple Android Application create a simple calculator using Android Studio is developed and executed successfully.
+Thus a Simple Android Application create a addition of two numbers using Android Studio is developed and executed successfully.
